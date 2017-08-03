@@ -1,0 +1,8 @@
+{
+    "setting": {
+        "defaultPort": "COM3",
+        "defaultSpeed": 112500
+    },
+    "filter": ["I3L"],
+    "color": 1
+}
