@@ -1,7 +1,8 @@
 # python-mcom
-Mini com port terminal written in Python
 
-This script demonstrate how to use Python to manager and transfer date through COM port.
+Mini com port terminal written in Python 2.7
+
+This script demonstrate how to use Python to manager and transfer data through COM port.
 
 ## How to use
 - press l: list available com ports
